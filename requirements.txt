@@ -1,4 +1,1 @@
-python-telegram-bot==20
-apscheduler
-python-telegram-bot==21
-apschedulerب
+س
